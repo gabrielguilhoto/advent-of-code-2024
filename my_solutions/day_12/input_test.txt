@@ -1,0 +1,64 @@
+AAAA
+BBCD
+BBCC
+EEEC
+:-> solution=140 <-:
+
+<--->
+
+OOOOO
+OXOXO
+OOOOO
+OXOXO
+OOOOO
+:-> solution=772 <-:
+
+<--->
+
+RRRRIICCFF
+RRRRIICCCF
+VVRRRCCFFF
+VVRCCCJFFF
+VVVVCJJCFE
+VVIVCCJJEE
+VVIIICJJEE
+MIIIIIJJEE
+MIIISIJEEE
+MMMISSJEEE
+:-> solution=1930 <-:
+
+<===>
+
+AAAA
+BBCD
+BBCC
+EEEC
+:-> solution=80 <-:
+
+<--->
+
+OOOOO
+OXOXO
+OOOOO
+OXOXO
+OOOOO
+:-> solution=436 <-:
+
+<--->
+
+EEEEE
+EXXXX
+EEEEE
+EXXXX
+EEEEE
+:-> solution=236 <-:
+
+<--->
+
+AAAAAA
+AAABBA
+AAABBA
+ABBAAA
+ABBAAA
+AAAAAA
+:-> solution=368 <-:
